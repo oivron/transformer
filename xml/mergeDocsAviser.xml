@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--<?xml version="1.0" encoding="UTF-8"?>-->
+<!DOCTYPE mergeDocs [
+<!ENTITY % iso-lat1 PUBLIC "ISO 8879:1986//ENTITIES Added Latin 1//EN//XML" "http://www.oasis-open.org/docbook/xmlcharent/0.3/iso-lat1.ent">
+%iso-lat1;
+<!ENTITY % iso-pub PUBLIC "ISO 8879:1986//ENTITIES Publishing//EN//XML" "http://www.oasis-open.org/docbook/xmlcharent/0.3/iso-pub.ent">
+%iso-pub;
+<!ENTITY % iso-num PUBLIC "ISO 8879:1986//ENTITIES Numeric and Special Graphic//EN//XML" "http://www.oasis-open.org/docbook/xmlcharent/0.3/iso-num.ent">
+%iso-num;
+<!ENTITY % iso-lat2 PUBLIC "ISO 8879:1986//ENTITIES Added Latin 2//EN//XML" "http://www.oasis-open.org/docbook/xmlcharent/0.3/iso-lat2.ent">
+%iso-lat2;
+]>
+<mergeDocs>
+	<doc path="../tmp/ready.www.aftenposten.no.xml"/>
+	<doc path="../tmp/ready.www.e24.no.xml"/>
+	<!--<doc path="../tmp/ready.www.fotball.no.xml"/>-->
+</mergeDocs>

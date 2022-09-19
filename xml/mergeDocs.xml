@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mergeDocs>
+  <doc path="../tmp/dateOK_1.xml"/>
+  <doc path="../tmp/dateOK_2.xml"/>
+  <doc path="../tmp/dateOK_3.xml"/>
+  <doc path="../tmp/dateOK_4.xml"/>
+  <doc path="../tmp/dateOK_5.xml"/>
+  <doc path="../tmp/dateOK_6.xml"/>
+  <doc path="../tmp/dateOK_7.xml"/>
+  <doc path="../tmp/dateOK_8.xml"/>
+</mergeDocs>

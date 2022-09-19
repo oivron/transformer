@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mergeDocs>
+	<doc path="../tmp/uniqueNamesOld.xml"/>
+	<doc path="../tmp/uniqueNamesNew.xml"/>
+</mergeDocs>
