@@ -19,7 +19,7 @@ During the early 2000s, [The Norwegian Library of Talking Books and Braille (NLB
 * Groups and structures contents on the basis of several predefined categories.
 * Produces output for DAISY Transformer.
 
-![Transformer 2](https://github.com/oivron/transformer/blob/main/img/transformer1.png)
+![Transformer 2](https://github.com/oivron/transformer/blob/main/res/transformer.png)
 *Transformer user interface.*
 
 ## Prerequisites
