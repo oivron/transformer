@@ -20,8 +20,7 @@ During the early 2000s, [The Norwegian Library of Talking Books and Braille (NLB
 * Produces output for DAISY Transformer.
 
 ![Transformer 2](https://github.com/oivron/transformer/blob/master/res/transformer.png)
-<img src="https://github.com/oivron/transformer/blob/master/res/transformer.png" alt="Transformer User Interface" width="300"/>
-*Transformer user interface.*
+<img src="https://github.com/oivron/transformer/blob/master/res/transformer.png" alt="Transformer User Interface" width="600"/>
 
 ## Prerequisites
 
